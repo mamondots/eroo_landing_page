@@ -1,0 +1,21 @@
+.testimonal_arrow .slick-dots{
+    bottom: -40px !important;
+    display:none;
+}
+.testimonal_arrow .slick-dots li button::before{
+    font-size:0px;
+    display:none;
+}
+.testimonal_arrow .slick-dots li button::after{
+    font-size:0px;
+    display:none;
+}
+.testimonal_arrow .slick-dots li{
+    display:inline-block;
+    border:2px solid #1010105d;
+    border-radius:50%;
+    transition:0.5s;
+}
+.testimonal_arrow .slick-dots li.slick-active{
+    background-color:#CDB30C;
+}

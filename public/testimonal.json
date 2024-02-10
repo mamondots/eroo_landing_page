@@ -1,0 +1,58 @@
+[
+    {
+        "name":"Al Mamon",
+        "title":"web developer",
+        "rating":"4.5",
+        "img":"https://i.ibb.co/8D4qCFT/person-1-jpg.webp",
+        "text":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    },
+    {
+        "name":"Md rabin",
+        "title":"web designer",
+        "rating":"3.5",
+        "img":"https://i.ibb.co/PwK8FDm/person-2-jpg.webp",
+        "text":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    },
+    {
+        "name":"Mrs. jonaki",
+        "title":"softwear engineer",
+        "rating":"4.00",
+        "img":"https://i.ibb.co/8D4qCFT/person-1-jpg.webp",
+        "text":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    },
+    {
+        "name":"JACK man",
+        "title":"web developer",
+        "rating":"2.5",
+        "img":"https://i.ibb.co/gtnsK9C/person-3-jpg.webp",
+        "text":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    },
+    {
+        "name":"Al Mamon",
+        "title":"web developer",
+        "rating":"4.5",
+        "img":"https://i.ibb.co/8D4qCFT/person-1-jpg.webp",
+        "text":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    },
+    {
+        "name":"Md rabin",
+        "title":"web designer",
+        "rating":"3.5",
+        "img":"https://i.ibb.co/PwK8FDm/person-2-jpg.webp",
+        "text":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    },
+    {
+        "name":"Mrs. jonaki",
+        "title":"softwear engineer",
+        "rating":"4.00",
+        "img":"https://i.ibb.co/8D4qCFT/person-1-jpg.webp",
+        "text":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    },
+    {
+        "name":"JACK man",
+        "title":"web developer",
+        "rating":"2.5",
+        "img":"https://i.ibb.co/gtnsK9C/person-3-jpg.webp",
+        "text":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    }
+]

@@ -1,0 +1,46 @@
+.team_head{
+    line-height:1.3;
+}
+.img_layer{
+    position: relative;
+}
+.img_layer::before{
+    position: absolute;
+    content:"";
+    top:0;
+    left:0;
+    width:100%;
+    height:0%;
+    background-color:#cdb30c93;
+    transition:0.5s;
+}
+
+.full-box:hover .img_layer::before{
+    height:50%;
+}
+
+.img_layer::after{
+    position: absolute;
+    content:"";
+    bottom:0;
+    left:0;
+    width:100%;
+    height:00%;
+    background-color:#cdb30c93;
+    transition:0.5s;
+}
+.full-box:hover .img_layer::after{
+    height:50%;
+}
+
+.person_details{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    opacity:0;
+    transition:0.5s;
+}
+.full-box:hover .person_details{
+    opacity:1;
+}

@@ -1,0 +1,17 @@
+.newsletter_bg{
+    background-image:url('../../assets/img/counter_bg.webp');
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    position: relative;
+}
+.newsletter_bg::before{
+    position: absolute;
+    content:"";
+    left:0;
+    top:0;
+    width:100%;
+    height:100%;
+    background-color:#cdb30cdb;
+    border-radius:6px;
+}
